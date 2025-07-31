@@ -1,2 +1,3 @@
 # Adityaverma
-this is my first git 
+this is my first git repository
+Author-Aditya verma
